@@ -64,7 +64,7 @@ function App() {
         stats={user.stats}
       />
       <div className="statistics">
-        <Statistics title="Upload stats" stats={statisticsData} />
+        <Statistics title="UPLOAD STATS" stats={statisticsData} />
       </div>
       <div className="friends">
         <FriendList friends={friendsData} />
